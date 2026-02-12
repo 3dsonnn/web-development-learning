@@ -1,0 +1,25 @@
+body {
+  background-color:black
+}
+
+#display {
+  min-height: 32px;
+  font-size:xx-large;
+  color: white;
+}
+
+button {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  font-size: larger;
+  cursor: pointer;
+  border: none;
+  background-color:hsl(0, 0%, 16%);
+  color: white;
+  transition: 0.5s;
+}
+
+#op {
+  background-color: orange;
+}
